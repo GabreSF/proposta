@@ -6,7 +6,7 @@ O projeto Proposta é um sistema de gerenciamento de propostas, onde os usuário
 
 1. Clone este repositório: `git clone https://github.com/GabreSF/proposta.git`
 2. Crie um ambiente virtual: `python -m venv venv`
-3. Ative o ambiente virtual: `source venv/bin/activate` ou `venv\Scripts\activate` no Windows)
+3. Ative o ambiente virtual: `source venv/bin/activate` ou `venv\Scripts\activate` no Windows
 4. Instale as dependências: `pip install -r requirements.txt`
 5. Configure o banco de dados: `python manage.py migrate`
 
